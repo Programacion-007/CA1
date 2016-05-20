@@ -10,3 +10,6 @@ C:\Users\jorge.aguilar\Documents\CA1-master\CA1\obj\Debug\CA1.pdb
 C:\Users\jorge.aguilar\Documents\CA1-master\CA1\bin\Debug\CA1.exe
 C:\Users\jorge.aguilar\Documents\CA1-master\CA1\bin\Debug\CA1.pdb
 C:\Users\jorge.aguilar\Documents\CA1-master\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\CTest\CA1\bin\Debug\CA1.exe.config
+C:\Users\jorge.aguilar\Documents\CTest\CA1\obj\Debug\CA1.exe
+C:\Users\jorge.aguilar\Documents\CTest\CA1\obj\Debug\CA1.pdb
